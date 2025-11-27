@@ -3,3 +3,4 @@ venv/
 __pychache__/
 .DS_Store
 data/vector_store/
+.idea/
