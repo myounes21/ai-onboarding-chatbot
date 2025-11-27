@@ -1,0 +1,18 @@
+# --- Loosened Core LangChain Dependencies ---
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-openai
+# -------------------------------------------
+
+# --- Newer/Specific Integrations (Keep pins for stability) ---
+cohere==5.20.0
+langchain-cohere==0.5.0
+# -------------------------------------------------------------
+
+# --- Utility Packages ---
+streamlit==1.38.0
+pypdf==5.0.1
+python-dotenv==1.0.1
+Faker==30.0.0
